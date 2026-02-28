@@ -1,0 +1,7 @@
+{
+  "name": "OrbitX Music",
+  "description": "A comprehensive music distribution platform for independent artists featuring unlimited uploads, 100% royalties, AI mastering, and advanced analytics.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
